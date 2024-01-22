@@ -12,7 +12,7 @@ Dynamic Story Branching: The app integrates Clarifai's object identification and
 
 Adaptive Learning Loops: It continuously loops through stories, allowing children to learn at their own pace and in a relaxed environment.
 
-Progress Evaluation Tools: For the furture we plan to incorporate Clarifai's RAG system, to include tools for educators and caregivers to track progress and identify learning needs.
+Progress Evaluation Tools: For the future we plan to incorporate Clarifai's RAG system, to include tools for educators and caregivers to track progress and identify learning needs.
 
 # Project Impact:
 "Branching Reading Adventure" aims to foster an inclusive and adaptable learning space, offering new possibilities for children limited by traditional learning methods. It focuses on both educational and emotional development, enhancing self-confidence in children with learning disabilities.
