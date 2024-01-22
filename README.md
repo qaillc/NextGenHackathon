@@ -1,18 +1,8 @@
----
-title: ClarifaiHackathonStreamlitApp
-emoji: 📊
-colorFrom: indigo
-colorTo: purple
-sdk: streamlit
-sdk_version: 1.30.0
-app_file: app.py
-pinned: false
----
-
+# Project Proposal
 
 The project's objective is to transform reading for children with learning disabilities using a Generative AI application built on the Clarifai platform, creating a "Branching Reading Adventure." It's designed to assist children with Visual Impairment, Dyslexia, ADHD, Auditory Processing Disorder, Language Disorders, and Cognitive Disabilities.
 
-Core Features:
+# Core Features:
 
 Interactive Story Creation: Utilizing CrewAI, this application turns a child's ideas into personalized learning adventures, encouraging them to become story creators.
 
@@ -24,9 +14,9 @@ Adaptive Learning Loops: It continuously loops through stories, allowing childre
 
 Progress Evaluation Tools: For the furture we plan to incorporate Clarifai's RAG system, to include tools for educators and caregivers to track progress and identify learning needs.
 
-Project Impact:
+# Project Impact:
 "Branching Reading Adventure" aims to foster an inclusive and adaptable learning space, offering new possibilities for children limited by traditional learning methods. It focuses on both educational and emotional development, enhancing self-confidence in children with learning disabilities.
 
-Conclusion:
+# Conclusion:
 Aligned with the hackathon's theme 'Empowering Learning Through Technology', this proposal represents a significant step towards inclusive education. The team is enthusiastic about its potential impact and looks forward to developing this innovative application.
 
